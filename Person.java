@@ -34,4 +34,8 @@ public class Person{
 	public void addNewMethod(){
 		System.out.println('this is a new line!')
 	}
+
+	public void addNewMethod2(){
+		System.out.println('this is a new 2 line!');
+	}
 }
