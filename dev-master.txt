@@ -1,1 +1,2 @@
 Now i am in dev£¬then i will go to master.
+Creating a new branch is quick & simple.
