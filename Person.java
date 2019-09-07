@@ -4,7 +4,7 @@ public class Person{
 	private Integer age;
 	
 	public Person(){
-		System.out.println('I am a person!');
+		System.out.println("I am a person!");
 	}
 	
 	public void setId(Integer id){
@@ -32,10 +32,10 @@ public class Person{
 	}
 	
 	public void addNewMethod(){
-		System.out.println('this is a new line!')
+		System.out.println("this is a new line!");
 	}
 
 	public void addNewMethod2(){
-		System.out.println('this is a new 2 line!');
+		System.out.println("this is a new 2 line!");
 	}
 }
